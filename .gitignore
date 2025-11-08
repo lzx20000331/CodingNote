@@ -1,0 +1,6 @@
+# 依赖目录
+node_modules
+# 开发服务器缓存
+docs/.vitepress/cache
+#生产构建输出
+docs/.vitepress/dist
